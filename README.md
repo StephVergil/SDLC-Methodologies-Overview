@@ -2,15 +2,6 @@
 
 This repository explores the **Software Development Life Cycle (SDLC)** methodologies, focusing on their characteristics, advantages, challenges, and use cases.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Methodologies Covered](#methodologies-covered)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Introduction
@@ -63,9 +54,3 @@ This repository provides:
 - Examples of challenges and risk management techniques.
 
 ---
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/SDLC-methodologies.git
