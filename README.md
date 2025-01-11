@@ -15,6 +15,8 @@ SDLC methodologies provide structured approaches to software development, ensuri
 6. **DevOps**
 
 Each methodology caters to different project requirements, offering unique benefits and challenges. 
+For more detailed insights, refer to the full essay:  
+[Chapter 14 Essay by Stephanie Vergil](https://github.com/StephVergil/SDLC-Methodologies-Overview/blob/main/chapter_14_essay_SVergil.docx)
 
 ---
 
